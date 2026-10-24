@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 271｜Private Emblem: reduces the subject of a photo to one tiny folk-modern mark that reads like a logo, seal or personal emblem even at small size — one outline, one pose or one key feature in simplified geometry, flat colour and a few lines, a little handmade and plain yet clear and strong, printed in one to three spot colours from the photo on warm-white uncoated paper with screen-print texture, uneven ink coverage, slightly rough edges and paper fibres, the mark small in extreme white space, and only a short number or word in small modern editorial type. Not a smooth commercial logo, app icon or cartoon. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-271 or asks for folk-print emblem, spot-colour mark or naive graphic logo from a photo.",
+  "short_description": "私人徽记：把照片主体收成一枚民艺印刷感的私人徽记，一到三种专色印在暖白纸上",
+  "zh-CN": {
+    "name": "私人徽记",
+    "tagline": "把照片主体收成一枚民艺印刷感的私人徽记：一个轮廓、几块专色、纸上的油墨。",
+    "look": "只保留能代表原物身份的一样东西：一个轮廓、一种姿态、一段结构或一个关键特征，用简化轮廓、几何概括、平面色块和少量线条压成一个像 Logo、印章或图腾的小符号，缩得很小也能一眼认出。它带一点手工的朴拙，但清楚、简洁、有力量。颜色从照片里取一到三种，像专色印刷一样印在暖白或米白的无涂层纸上，看得见纸纤维、油墨覆盖不均和边缘的细微粗糙。符号小，留白大；旁边只有一个很短的编号或词，和符号形成大小反差。",
+    "traits": ["极简符号", "民艺印刷", "私人徽记", "极端留白", "专色纸感", "一到三色"],
+    "good": [
+      "外形一眼能认的主体：一只兔子、一辆单车、一个咖啡杯、一座灯塔",
+      "代表自己或一个小地方的对象：家里的狗、常去的面包店、一棵门前树",
+      "想做成私人印章、小店标志、包装贴或明信片角标的照片"
+    ],
+    "poor": [
+      "想保留完整场景、颜色丰富或细节很多的照片",
+      "靠细节才认得出来的主体：人脸、复杂机械、繁复图案",
+      "想要光滑商业 Logo、App 图标、卡通形象或完美矢量的需求"
+    ]
+  },
+  "en": {
+    "name": "Private Emblem",
+    "tagline": "Turns your subject into a small folk-print private emblem: one outline, a few spot colours, ink on paper.",
+    "look": "Only one thing that carries the original's identity is kept: an outline, a pose, a piece of structure or a key feature, pressed with simplified contours, geometric reduction, flat colour and a few lines into a small symbol that reads like a logo, seal or totem and is still recognisable at a tiny size. It has a little handmade plainness yet stays clear, simple and strong. One to three colours from the photo are printed like spot colours on warm-white or cream uncoated paper, with paper fibres, uneven ink coverage and slightly rough edges visible. The mark is small and the white space large; only a very short number or word sits beside it, in sharp contrast of scale.",
+    "traits": ["Minimal symbol", "Folk print", "Private emblem", "Extreme white space", "Spot colour on paper", "One to three colours"],
+    "good": [
+      "Subjects with an instantly recognisable shape: a rabbit, a bicycle, a coffee cup, a lighthouse",
+      "Things that stand for you or a small place: the family dog, a favourite bakery, the tree by your door",
+      "Photos you want as a personal stamp, small-shop mark, packaging sticker or postcard corner mark"
+    ],
+    "poor": [
+      "Photos where you want the whole scene, rich colour or lots of detail kept",
+      "Subjects recognisable only through detail: faces, complex machinery, intricate patterns",
+      "Requests for a smooth commercial logo, app icon, cartoon character or perfect vector"
+    ]
+  },
+  "ja": {
+    "name": "個人の徽章",
+    "tagline": "写真の主役を民藝の版画のような個人の徽章にします。輪郭一つ、特色を数色、紙の上のインク。",
+    "look": "もとのものを表すものを一つだけ残します。輪郭、姿勢、構造の一部、あるいは決め手となる特徴を、簡略化した輪郭、幾何学的な要約、平らな色面、わずかな線でロゴ、印章、トーテムのような小さな記号に圧縮し、ごく小さくしても一目でわかるようにします。手仕事の素朴さが少しありながら、はっきりと簡潔で力があります。色は写真から一〜三色を取り、特色印刷のように温かな白や生成りの非塗工紙に刷り、紙の繊維、インクのむら、縁のかすかなざらつきが見えます。記号は小さく、余白は大きく、そばにはごく短い番号か言葉が一つあるだけで、大きさの対比をつくります。",
+    "traits": ["ミニマルな記号", "民藝の版画", "個人の徽章", "極端な余白", "特色と紙の質感", "一〜三色"],
+    "good": [
+      "形が一目でわかる主役：うさぎ、自転車、コーヒーカップ、灯台",
+      "自分や小さな場所を表すもの：家の犬、行きつけのパン屋、玄関先の木",
+      "個人の判子、小さなお店のマーク、包装シール、ポストカードの隅の印にしたい写真"
+    ],
+    "poor": [
+      "場面全体や豊かな色、多くの細部を残したい写真",
+      "細部があってはじめてわかる主役：顔、複雑な機械、込み入った模様",
+      "なめらかな商業ロゴ、アプリのアイコン、アニメのキャラクター、完璧なベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "나만의 휘장",
+    "tagline": "사진 속 주인공을 민예 판화 느낌의 개인 휘장으로 만듭니다. 윤곽 하나, 별색 몇 가지, 종이 위의 잉크.",
+    "look": "원래의 것을 대표하는 한 가지만 남깁니다. 윤곽 하나, 자세 하나, 구조 한 부분이나 핵심 특징 하나를 단순한 윤곽, 기하학적 요약, 납작한 색면, 몇 줄의 선으로 눌러 로고나 인장, 토템 같은 작은 기호로 만들며, 아주 작게 줄여도 한눈에 알아볼 수 있습니다. 손으로 만든 소박함이 조금 있지만 분명하고 간결하며 힘이 있습니다. 색은 사진에서 한두 가지, 많으면 세 가지를 골라 별색 인쇄처럼 따뜻한 흰색이나 미색의 비코팅지에 찍고, 종이 섬유와 고르지 않은 잉크, 살짝 거친 가장자리가 보입니다. 기호는 작고 여백은 크며, 옆에는 아주 짧은 번호나 단어 하나만 있어 크기의 대비를 이룹니다.",
+    "traits": ["미니멀 기호", "민예 판화", "개인 휘장", "극단적 여백", "별색과 종이 질감", "한 가지에서 세 가지 색"],
+    "good": [
+      "모양을 한눈에 알아보는 주인공: 토끼, 자전거, 커피잔, 등대",
+      "나나 작은 장소를 대표하는 것: 우리 집 개, 단골 빵집, 문 앞의 나무",
+      "개인 도장, 작은 가게 마크, 포장 스티커, 엽서 귀퉁이 표식으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체나 풍부한 색, 많은 세부를 살리고 싶은 사진",
+      "세부가 있어야 알아보는 주인공: 얼굴, 복잡한 기계, 정교한 무늬",
+      "매끈한 상업 로고, 앱 아이콘, 만화 캐릭터, 완벽한 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الشعار الخاص",
+    "tagline": "يحوّل عنصر صورتك إلى شعار شخصي صغير بروح الطباعة الشعبية: خط خارجي واحد وبضعة ألوان خاصة وحبر على ورق.",
+    "look": "لا يُحتفظ إلا بشيء واحد يحمل هوية الأصل: خط خارجي أو وقفة أو جزء من البنية أو سمة أساسية، يُضغط بخطوط مبسّطة واختزال هندسي ومساحات لونية مسطّحة وبضعة خطوط في رمز صغير يُقرأ كشعار أو ختم أو طوطم، ويبقى معروفاً حتى في حجم صغير جداً. فيه شيء من بساطة الصنعة اليدوية، لكنه يبقى واضحاً بسيطاً قوياً. تُطبع من لون إلى ثلاثة ألوان من الصورة كألوان طباعة خاصة على ورق غير مصقول بلون أبيض دافئ أو كريمي، فتظهر ألياف الورق وتغطية الحبر غير المتساوية وخشونة طفيفة في الحواف. الرمز صغير والفراغ واسع؛ ولا يجاوره إلا رقم أو كلمة قصيرة جداً، في تباين حاد في الحجم.",
+    "traits": ["رمز بسيط", "طباعة شعبية", "شعار خاص", "فراغ أبيض شديد", "ألوان خاصة على الورق", "لون إلى ثلاثة ألوان"],
+    "good": [
+      "عناصر شكلها يُعرف فوراً: أرنب، دراجة، فنجان قهوة، منارة",
+      "أشياء تمثّلك أو تمثّل مكاناً صغيراً: كلب العائلة، مخبزك المفضل، الشجرة عند بابك",
+      "صور تريدها ختماً شخصياً أو علامة لمتجر صغير أو ملصقاً للتغليف أو علامة في زاوية بطاقة بريدية"
+    ],
+    "poor": [
+      "صور تريد الاحتفاظ بمشهدها كاملاً أو بألوانها الغنية أو بتفاصيل كثيرة",
+      "عناصر لا تُعرف إلا بتفاصيلها: الوجوه، الآلات المعقدة، النقوش الدقيقة",
+      "طلب شعار تجاري أملس أو أيقونة تطبيق أو شخصية كرتونية أو رسم متجهي مثالي"
+    ]
+  }
+}

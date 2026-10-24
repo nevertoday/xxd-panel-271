@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-271
-description: "Create XXD Panel 271 raster artwork: a faithful photograph paired with a small folk-modern private emblem, flat color, analog print grain and extreme whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-271 or asks for this 私人徽记 style."
+description: "XXD Panel 271｜Private Emblem: reduces the subject of a photo to one tiny folk-modern mark that reads like a logo, seal or personal emblem even at small size — one outline, one pose or one key feature in simplified geometry, flat colour and a few lines, a little handmade and plain yet clear and strong, printed in one to three spot colours from the photo on warm-white uncoated paper with screen-print texture, uneven ink coverage, slightly rough edges and paper fibres, the mark small in extreme white space, and only a short number or word in small modern editorial type. Not a smooth commercial logo, app icon or cartoon. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-271 or asks for folk-print emblem, spot-colour mark or naive graphic logo from a photo."
 ---
 
 # XXD Panel 271
